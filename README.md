@@ -10,28 +10,42 @@ Decoding: Extracts the hidden data from the stego-image and reconstructs the ori
 
 Features:
 
-Hide secret data inside BMP images
+     Hide secret data inside BMP images
 
-Extract hidden data from stego-images
+     Extract hidden data from stego-images
 
-Uses LSB-based steganography
+      Uses LSB-based steganography
 
-File handling using C
-Bitwise manipulation techniques
-Modular and structured implementation
-Validation for secure extraction
-Technologies Used
-C Programming
-File I/O Operations
-Bitwise Operations
-Structures and Pointers
-BMP Image Processing
-Learning Outcomes
+      File handling using C
+
+      Bitwise manipulation techniques
+
+      Modular and structured implementation
+
+      Validation for secure extraction
+
+Technologies Used:
+
+      C Programming
+
+      File I/O Operations
+
+      Bitwise Operations
+
+      Structures and Pointers
+
+       BMP Image Processing
+
+Learning Outcomes:->
 
 This project helped in understanding:
 
-Low-level file manipulation
-Image processing basics
-Data hiding techniques
-Memory handling in C
-Modular programming concepts
+      Low-level file manipulation.
+      
+      Image processing basics.
+      
+      Data hiding techniques.
+      
+      Memory handling in C.
+      
+      Modular programming concepts.
